@@ -3,11 +3,19 @@
     <property name="created">2016-12-10T12:00:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2016-12-10T12:00:24</property>
+    <property name="modified">2016-12-28T11:59:55</property>
     <property name="originalScheme">_@user_Darcula</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="46879d" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
