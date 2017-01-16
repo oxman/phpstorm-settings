@@ -1,0 +1,15 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Annotate" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Annotate" icon="/usr/share/icons/mate/16x16/actions/view-restore.png" />
+  </component>
+</application>

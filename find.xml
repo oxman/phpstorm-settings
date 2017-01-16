@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[couchbase-odm] - .../src/Blackprism/CouchbaseODM'" />
-    <option name="defaultScopeName" value="Directory '[couchbase-odm] - .../src/Blackprism/CouchbaseODM'" />
-    <option name="SEARCH_SCOPE" value="Directory '[couchbase-odm] - .../src/Blackprism/CouchbaseODM'" />
+    <option name="customScope" value="Project 'auth.ccm.net'" />
+    <option name="defaultScopeName" value="Project 'auth.ccm.net'" />
+    <option name="SEARCH_SCOPE" value="Project 'auth.ccm.net'" />
   </component>
 </application>
