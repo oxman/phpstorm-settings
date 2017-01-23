@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <CATALOG_PROPERTIES>http://www.liquibase.org/xml/ns/dbchangelog</CATALOG_PROPERTIES>
+  </component>
+</application>
