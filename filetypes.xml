@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
