@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="t-" value="$this-&gt;$property$ = $property$;$END$&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="property" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
