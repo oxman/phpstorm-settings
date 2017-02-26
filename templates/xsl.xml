@@ -1,5 +1,5 @@
 <templateSet group="xsl">
-  <template name="t-" value="$this-&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="t-" value="$this-&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
