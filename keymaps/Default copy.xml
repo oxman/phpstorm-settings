@@ -28,6 +28,9 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
