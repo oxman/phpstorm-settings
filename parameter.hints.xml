@@ -1,9 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="PHP" />
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
     </blacklists>
-    <showIfParamNameContained value="true" />
-    <showWhenMultipleParamsWithSameType value="true" />
+    <option id="php.show.names.for.all.args" value="true" />
   </component>
 </application>
