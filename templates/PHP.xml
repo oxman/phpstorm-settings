@@ -5,5 +5,5 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="double quote" value="&quot;$SELECTION$&quot;" toReformat="false" toShortenFQNames="true" />
+  <template name="double quote" value="&quot;$SELECTION$&quot;" description="" toReformat="false" toShortenFQNames="true" />
 </templateSet>
